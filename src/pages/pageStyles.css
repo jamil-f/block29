@@ -1,0 +1,6 @@
+.add-puppy-form input,
+.add-puppy-form select {
+    display: block;
+    width: 35%;
+    margin-bottom: 25px;
+}
